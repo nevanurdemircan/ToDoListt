@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIAuthenticationService_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F7ee298e4d9de4e63bf0e6b8a21e41815c800_003F7a_003F8da766ad_003FIAuthenticationService_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIdentityDbContext_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Ff9342fb513b7b524925c79d9822cd3ecaf072c50231aa3b469875f4c2cdf_003FIdentityDbContext_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b317a1df_002D5690_002D4bd2_002D8c44_002D5d3d5ef70e03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAll_ReturnsSuccess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.ToDoServiceTest.GetAll_ReturnsSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bbd5fa6d_002Dd1e6_002D4306_002D95b5_002D1caeee74364f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAll_ReturnsSuccess #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.ToDoServiceTest.GetAll_ReturnsSuccess&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ede1bb21_002D2f5d_002D4d33_002D97b6_002D28ed1eabcaec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAll_ReturnsSuccess #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.ToDoServiceTest.GetAll_ReturnsSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.ToDoServiceTest.GetById_WhenPostIsNotPresent_ThrowsException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.ToDoServiceTest.GetById_WhenPostIsPresent_ReturnsSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::31F44E83-3140-4112-8B38-190C75A17993::net8.0::Service.Tests.CategoryServiceTest+CategoryServiceUnitTests.GetAll_ShouldReturnAllCategories&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

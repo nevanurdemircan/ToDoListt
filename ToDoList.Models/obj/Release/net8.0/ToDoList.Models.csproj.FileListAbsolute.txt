@@ -1,0 +1,15 @@
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/bin/Release/net8.0/ToDoList.Models.deps.json
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/bin/Release/net8.0/ToDoList.Models.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/bin/Release/net8.0/ToDoList.Models.pdb
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/bin/Release/net8.0/Core.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/bin/Release/net8.0/Core.pdb
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.csproj.AssemblyReference.cache
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.AssemblyInfoInputs.cache
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.AssemblyInfo.cs
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.csproj.CoreCompileInputs.cache
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.BC4726A0.Up2Date
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/refint/ToDoList.Models.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.pdb
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ref/ToDoList.Models.dll

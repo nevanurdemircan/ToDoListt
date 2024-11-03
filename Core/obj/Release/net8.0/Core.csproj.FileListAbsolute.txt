@@ -1,0 +1,12 @@
+/Users/neva/Desktop/ToDoListt/Core/bin/Release/net8.0/Core.deps.json
+/Users/neva/Desktop/ToDoListt/Core/bin/Release/net8.0/Core.dll
+/Users/neva/Desktop/ToDoListt/Core/bin/Release/net8.0/Core.pdb
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.csproj.AssemblyReference.cache
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.AssemblyInfoInputs.cache
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.AssemblyInfo.cs
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.dll
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/refint/Core.dll
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.pdb
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/ref/Core.dll
