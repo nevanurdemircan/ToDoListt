@@ -1,4 +1,6 @@
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
+using ToDoList.Models.Dtos.Validator;
 using ToDoList.Models.Entities;
 using ToDoList.Service.Abstracts;
 using ToDoList.Service.Concretes;
@@ -18,6 +20,8 @@ public static class ServiceDependencies
         services.AddScoped<IUserService, UserService>();
         services.AddScoped<IToDoService, ToDoService>();
         services.AddScoped<ICategoryService, CategoryService>();
+        services.AddValidatorsFromAssemblyContaining<ToDoCreateRequestValidator>(); 
+
         return services;
     }
 }

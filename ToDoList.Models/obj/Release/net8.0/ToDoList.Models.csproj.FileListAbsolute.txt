@@ -13,3 +13,4 @@
 /Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/refint/ToDoList.Models.dll
 /Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.pdb
 /Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ref/ToDoList.Models.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.Models/obj/Release/net8.0/ToDoList.Models.sourcelink.json

@@ -131,3 +131,4 @@
 /Users/neva/Desktop/ToDoListt/ToDoList.API/bin/Release/net8.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/neva/Desktop/ToDoListt/ToDoList.API/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.dll
 /Users/neva/Desktop/ToDoListt/ToDoList.API/bin/Release/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.API/obj/Release/net8.0/ToDoList.API.sourcelink.json

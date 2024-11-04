@@ -17,3 +17,4 @@
 /Users/neva/Desktop/ToDoListt/ToDoList.DataAccess/obj/Release/net8.0/ToDoList.DataAccess.pdb
 /Users/neva/Desktop/ToDoListt/ToDoList.DataAccess/obj/Release/net8.0/ToDoList.DataAccess.genruntimeconfig.cache
 /Users/neva/Desktop/ToDoListt/ToDoList.DataAccess/obj/Release/net8.0/ref/ToDoList.DataAccess.dll
+/Users/neva/Desktop/ToDoListt/ToDoList.DataAccess/obj/Release/net8.0/ToDoList.DataAccess.sourcelink.json

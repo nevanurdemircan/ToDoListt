@@ -10,3 +10,4 @@
 /Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/refint/Core.dll
 /Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.pdb
 /Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/ref/Core.dll
+/Users/neva/Desktop/ToDoListt/Core/obj/Release/net8.0/Core.sourcelink.json
